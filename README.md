@@ -1,4 +1,4 @@
-# 📚 Array DSA Practice – Java
+# Array DSA Practice – Java
 
 - Author : Kumar Gaurav
 - Email : kumar.gaurav@softwaretesting4u.com
@@ -9,7 +9,7 @@ This repo contains solutions to common and frequently asked array problems, writ
 These problems are part of my preparation for **SDET (Software Development Engineer in Test)** interviews and focus on building a strong foundation in **Data Structures & Algorithms (DSA)**.
 
 
-## ✅ Topics Covered
+## Topics Covered
 
 1. Find the **maximum and minimum** element in an array  
 2. **Reverse** an array (without using built-in methods)  
@@ -24,31 +24,31 @@ These problems are part of my preparation for **SDET (Software Development Engin
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 - Java 17
 - Eclipse IDE
 - No external libraries used
 
-## 📁 Folder Structure
+## Folder Structure
 
 We have written all the program in \src\main\java\com folder
 
 
-## 📌 Notes
+## Notes
 
 - Each program is written in a **simple and beginner-friendly** style.
 - Proper use of comments to explain logic and edge cases.
 - Ideal for anyone starting with DSA or preparing for SDET/QA Automation interviews.
 
-## 🚀 Coming Soon
+## Coming Soon
 
 - More problems from Strings, HashMap, and Recursion
 - Full Java-based Framework repo (Selenium, TestNG, Rest Assured, etc.)
 - DSA tracker & learning roadmap for SDET
 
 
-## 🤝 Let's Connect
+## Let's Connect
 
 If you liked the content, feel free to ⭐ the repo and follow me on GitHub.  
 Suggestions and improvements are always welcome!
